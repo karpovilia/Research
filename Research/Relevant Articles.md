@@ -39,5 +39,7 @@
 * "Socially Fair **Mitigation of Misinformation on Social Networks** via Constraint Stochastic Optimization" AAAI-2022
 * "[**Meta Propagation Networks** for Graph Few-Shot Semi-Supervised Learning](https://arxiv.org/pdf/2112.09810.pdf)" AAAI-2022
 
+### Block Modelling
+* "Robust recovery for stochastic block models" FOCS-2021
 ## DiffBot
 * "[Fully Attentional Network for **Semantic Segmentation**](https://arxiv.org/pdf/2112.04108.pdf)" AAAI-2022 
