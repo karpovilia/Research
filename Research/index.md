@@ -1,4 +1,5 @@
-# Main
+# Main Page
 
-* [Conference List](https://karpovilia.github.io/Research/Conferences/)
-* [Relevant Articles](Relevant%20Articles)
+* [Conference List](Conferences/)
+* [Relevant Articles](Relevant%20Articles/)
+* 

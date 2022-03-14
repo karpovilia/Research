@@ -1,4 +1,4 @@
-# Конференции
+# Conferences
 
 https://www.conferences-computer.science/
 
