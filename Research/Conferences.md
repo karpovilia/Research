@@ -1,9 +1,7 @@
-[#](https://focs2022.eecs.berkeley.edu/) Conferences
+# Conferences
+* [Неполный список дедлайнов по CS конференциям](https://www.conferences-computer.science/)
 
-[Неполный список дедлайнов по CS конференциям](https://www.conferences-computer.science/)
-
-
-
+## Core A* и Core A конференции
 
 | Deadline      | Name                                                                                                                                      | Arconym                                            | Accepted Papers                                                                                                              | Rank |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------:|------------------------------------------------------------------------------------------------------------------------------|------|
@@ -42,4 +40,4 @@
 |               | International Workshop on Graph-Theoretic Concepts in Computer Science                                                                    | WG                                                 |                                                                                                                              | A    |
 | May 17, 2022  | International Conference on Computational Linguistics                                                                                     | [COLING](https://coling2022.org/)                  | [2020](https://coling2020.org/COLING2020programme.pdf)                                                                       | A    |
 |               | Conference on Computational Natural Language Learning                                                                                     | CoNLL                                              |                                                                                                                              | A    |
-|               | European Association of Computational Linguistics                                                                                         | EACL                                               |                                                                                                                              | A    |
+| Not released  | European Association of Computational Linguistics                                                                                         | EACL                                               | [2021](https://2021.eacl.org/program/accepted/)                                                                              | A    |
