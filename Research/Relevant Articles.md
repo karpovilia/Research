@@ -25,11 +25,9 @@
 * "[BERTMap: A BERT-Based Ontology Alignment System](https://arxiv.org/abs/2112.02682)" AAAI-2022
 
 ## SNA
-* "Socially Fair **Mitigation of Misinformation on Social Networks** via Constraint Stochastic Optimization" AAAI-2022
+### Graph Embedding
 * "[Unmasking the Mask – Evaluating **Social Biases in Masked Language Models**](https://arxiv.org/pdf/2104.07496.pdf)" AAAI-2022
 * "[CrossWalk: Fairness-Enhanced Node Representation Learning](https://arxiv.org/pdf/2105.02725.pdf)" AAAI-2022
-
-* "[**Meta Propagation Networks** for Graph Few-Shot Semi-Supervised Learning](https://arxiv.org/pdf/2112.09810.pdf)" AAAI-2022
 * "[Self-Supervised Graph Neural Networks via Diverse and Interactive Message Passing](https://yangliang.github.io/pdf/aaai22.pdf)" AAAI-2022
 * "[Hybrid Graph Neural Networks for Few-Shot Learning](https://arxiv.org/pdf/2112.06538.pdf)" AAAI-2022
 * "[SAIL: Self-Augmented Graph Contrastive Learning](https://arxiv.org/pdf/2009.00934.pdf)" AAAI-2022
@@ -37,6 +35,9 @@
 * "Geometry Interaction Knowledge Graph Embeddings" AAAI-2022
 * "[Regularizing Graph Neural Networks via Consistency-Diversity Graph Augmentations](http://shichuan.org/doc/126.pdf)" AAAI-2022
 
+### Information Propagation
+* "Socially Fair **Mitigation of Misinformation on Social Networks** via Constraint Stochastic Optimization" AAAI-2022
+* "[**Meta Propagation Networks** for Graph Few-Shot Semi-Supervised Learning](https://arxiv.org/pdf/2112.09810.pdf)" AAAI-2022
 
 ## DiffBot
 * "[Fully Attentional Network for **Semantic Segmentation**](https://arxiv.org/pdf/2112.04108.pdf)" AAAI-2022 
