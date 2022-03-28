@@ -16,6 +16,8 @@
 * "[Improved Text Classification via **Contrastive Adversarial Training**](https://arxiv.org/pdf/2107.10137.pdf)" AAAI-2022
 * "[Boosting Contrastive Learning with Relation Knowledge Distillation](https://arxiv.org/pdf/2112.04174.pdf)" AAAI-2022
 * "[Max-Margin Contrastive Learning](https://arxiv.org/pdf/2112.11450.pdf)" AAAI-2022
+* "[Jointly Multi-Similarity Loss for Deep Metric Learning](https://ieeexplore.ieee.org/abstract/document/9679139)" 
+* "[Pairwise Supervised Contrastive Learning of Sentence Representations](https://arxiv.org/abs/2109.05424)" [@zhangPairwiseSupervisedContrastive2022]
 
 ### Model Explanation
 * "[Entropy-Based Logic Explanations of Neural Networks](https://arxiv.org/pdf/2106.06804.pdf)" AAAI-2022
